@@ -1,2 +1,2 @@
 # CaseWare
-Notes and Resources on CasWare
+Notes and Resources on CaseWare
